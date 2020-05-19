@@ -1,0 +1,10 @@
+body {
+    background-color:  #e1a294 ;
+}
+.root {
+    color:black;
+    font-size: 4em;
+    text-align: left;
+    padding-left: 50px;
+    font-family: "Times New Roman"
+}

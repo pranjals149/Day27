@@ -1,0 +1,13 @@
+$textcolor: black;
+$bodybgcolor: #e1a294;
+
+body {
+    background-color: $bodybgcolor;
+}
+.root {
+    color: $textcolor;
+    font-size: 4em;
+    text-align: left;
+    padding-left: 50px;
+    font-family: "Times New Roman";
+}
